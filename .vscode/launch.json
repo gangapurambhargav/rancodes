@@ -1,0 +1,50 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Sample",
+            "request": "launch",
+            "mainClass": "Sample",
+            "projectName": "C++,Java Codes_c548f384"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - posineg",
+            "request": "launch",
+            "mainClass": "posineg",
+            "projectName": "C++,Java Codes_c548f384"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Demo",
+            "request": "launch",
+            "mainClass": "Demo",
+            "projectName": "C++,Java Codes_c548f384"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NumOfMonth",
+            "request": "launch",
+            "mainClass": "NumOfMonth",
+            "projectName": "C++,Java Codes_c548f384"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - argcheck",
+            "request": "launch",
+            "mainClass": "argcheck",
+            "projectName": "C++,Java Codes_c548f384"
+        },
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Launch Chrome against localhost",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}

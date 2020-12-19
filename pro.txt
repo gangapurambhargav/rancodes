@@ -1,0 +1,7 @@
+class myfirstprgrm
+{
+ public static void main(string args[])
+{
+system.out.println("OkOKOKO");
+}
+}

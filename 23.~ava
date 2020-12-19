@@ -1,0 +1,7 @@
+class myfied
+{
+public class main void(Strings args[]);
+{
+Sysytem.out.println("OKokOKok");
+}
+}

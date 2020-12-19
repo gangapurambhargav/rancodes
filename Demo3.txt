@@ -1,0 +1,16 @@
+import java.util.scanner; 
+Class Demo3
+{
+Public static void main(string args[])
+{
+     Scannner sc =new Scanner(System.in);
+System.out.print.ln(“Enter a integer value:”);
+int a=sc.nextInt();
+System.out.println(“The input value is :”+a);
+System.out.println(“The square value is :”+(a*a));
+System.out.println("Enter the Double Value Value
+int a=sc.nextDouble();
+System.out.println("The input value is:"+d);
+System.out.println("Square is :'+(d*d);
+}
+}

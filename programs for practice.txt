@@ -1,0 +1,31 @@
+1)Write a java program to accept a String as a command line argument and print a Welcome message as given below.
+
+Example
+C:\> java Sample John
+O/P Expected : Welcome John	
+
+2)Write a java program to check if a given integer number is Positive, Negative, or Zero.
+read input using scanner class.
+
+3)Write java  program to check if the program has received command line arguments or not.
+
+If the program has not received arguments then print "No Values", else print all the values in a single line separated by ,(comma)
+
+4) Write a java program to receive a number and print the corresponding month name.
+
+Example1)
+
+C:\>java Sample 
+12
+
+O/P Expected : December
+
+5)Write a program to initialize an integer array with values and check if a given number is present in the array or not.
+
+If the number is not found, it will print -1 else it will print the index value of the given  number in the array.
+
+Example 1) If the Array elements are  {1,4,34,56,7} and the search element is 90, then the output expected is -1.
+
+Example 2)If the Array elements are  {1,4,34,56,7} and the search element is 56, then the output expected is 3.
+	
+	
